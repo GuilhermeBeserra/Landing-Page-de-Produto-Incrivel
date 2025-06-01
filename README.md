@@ -22,7 +22,7 @@ Você pode acessar o projeto online clicando [aqui](https://guilhermebeserra.git
 
 ```
 📦 produto-incrivel/
-├── index.html (ou produto.html)
+├── index.html 
 ├── style.css
 ```
 
@@ -38,7 +38,7 @@ Você pode acessar o projeto online clicando [aqui](https://guilhermebeserra.git
    ```bash
    https://github.com/GuilhermeBeserra/Landing-Page-de-Produto-Incrivel.git
    ```
-2. Abra o arquivo `produto.html` em seu navegador.
+2. Abra o arquivo `index.html` em seu navegador.
 3. Edite o conteúdo conforme desejar!
 
 ### © 2025 Produto Incrível
