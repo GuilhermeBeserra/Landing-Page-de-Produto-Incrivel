@@ -13,7 +13,7 @@ Uma landing page moderna, simples e impactante para promover um produto digital.
 
 ## 📸 Preview
 
-![preview da página](https://via.placeholder.com/800x400.png?text=Preview+Landing+Page)
+![Image](https://github.com/user-attachments/assets/5d1b2565-8df1-4d0e-8e29-5bdbf4771b25)
 
 > Substitua o link acima por um print da página hospedado em algum serviço como Imgur ou GitHub Issues.
 
