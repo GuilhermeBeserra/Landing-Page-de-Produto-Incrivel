@@ -13,9 +13,9 @@ Uma landing page moderna, simples e impactante para promover um produto digital.
 
 ## 📸 Preview
 
-![Image](https://github.com/user-attachments/assets/5d1b2565-8df1-4d0e-8e29-5bdbf4771b25)
+![Image](https://github.com/user-attachments/assets/a28bd9cc-474c-4d27-b3bb-1c5e12d0aec5)
 
-> Substitua o link acima por um print da página hospedado em algum serviço como Imgur ou GitHub Issues.
+![Image](https://github.com/user-attachments/assets/ef6fcd5a-283e-475e-89a8-9a6cf91650d9)
 
 ## 📁 Estrutura do Projeto
 
