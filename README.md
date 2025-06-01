@@ -12,7 +12,7 @@ Uma landing page moderna, simples e impactante para promover um produto digital.
 - Estilo clean e agradável
 
 ## 📸 Preview
-
+Você pode acessar o projeto online clicando [https://guilhermebeserra.github.io/Landing-Page-de-Produto-Incrivel/]
 ![Image](https://github.com/user-attachments/assets/a28bd9cc-474c-4d27-b3bb-1c5e12d0aec5)
 
 ![Image](https://github.com/user-attachments/assets/f8fc77a2-094b-4e24-b1d7-e10872dddbf3)
