@@ -35,7 +35,7 @@ Uma landing page moderna, simples e impactante para promover um produto digital.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/produto-incrivel.git
+   https://github.com/GuilhermeBeserra/Landing-Page-de-Produto-Incrivel.git
    ```
 2. Abra o arquivo `produto.html` em seu navegador.
 3. Edite o conteúdo conforme desejar!
