@@ -40,13 +40,4 @@ Uma landing page moderna, simples e impactante para promover um produto digital.
 2. Abra o arquivo `produto.html` em seu navegador.
 3. Edite o conteúdo conforme desejar!
 
-## 📬 Contato
-
-Caso queira sugerir melhorias ou colaborar, entre em contato:
-
-- 📧 seuemail@exemplo.com
-- 💼 [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-
----
-
 ### © 2025 Produto Incrível
